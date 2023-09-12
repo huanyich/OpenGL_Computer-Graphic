@@ -34,7 +34,7 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Joe Graphics
+//	Author:			Yi-Chan Huang
 
 // title of these windows:
 
